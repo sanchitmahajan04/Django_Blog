@@ -9,7 +9,7 @@
  ![Screenshot (8)](https://user-images.githubusercontent.com/55292083/149667076-4f7e8e35-ac55-4a26-b63e-a83ecfac17ae.png)
  
  
- SQL lite database(default in django) is used to store the posts which can be acessed through Admin Pannel.
+ SQL lite database(default in django) is used to store the posts which can be accessed through Admin Pannel.
 
 
  ![Screenshot (6)](https://user-images.githubusercontent.com/55292083/149667081-6bbccece-d87a-41c1-9815-65e3c197ffaa.png)
